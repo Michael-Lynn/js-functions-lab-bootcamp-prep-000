@@ -3,14 +3,14 @@ happyHolidays(){
   return `Happy Holidays`
 }
 
-happyHolidays(name){
+happyHolidays(string){
   return `Happy Holidays, ${name}!`
 }
 
-happyHolidayTo(holiday, name){
+happyHolidayTo(string, string){
   `Happy ${holiday}, ${name}`
 }
 
-holidayCountdown(holiday, days){
+holidayCountdown(string,Number){
   `It's ${days} days until ${holiday}!`
 }
