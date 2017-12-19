@@ -1,16 +1,16 @@
 // write your code below !
 happyHolidays(){
-  return `Happy Holidays`
-};
+  return `Happy Holidays`;
+}
 
 happyHolidays(name){
-  return `Happy Holidays, ${name}!`
-};
+  return `Happy Holidays, ${name}!`;
+}
 
 happyHolidayTo(holiday, name){
-  `Happy ${holiday}, ${name}`
-};
+  `Happy ${holiday}, ${name}`;
+}
 
 holidayCountdown(holiday, days){
-  `It's ${days} days until ${holiday}!`
-};
+  `It's ${days} days until ${holiday}!`;
+}
