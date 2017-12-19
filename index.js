@@ -1,16 +1,16 @@
 // write your code below !
-happyHolidays(){
+Function happyHolidays(){
   return `Happy Holidays`;
 }
 
-happyHolidays(name){
+Function happyHolidays(name){
   return `Happy Holidays, ${name}!`;
 }
 
-happyHolidayTo(holiday, name){
+Function happyHolidayTo(holiday, name){
   `Happy ${holiday}, ${name}`;
 }
 
-holidayCountdown(holiday, days){
+Function holidayCountdown(holiday, days){
   `It's ${days} days until ${holiday}!`;
 }
